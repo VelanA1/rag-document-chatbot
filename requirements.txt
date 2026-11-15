@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+seaborn
+sentence-transformers
+pypdf
+transformers
+huggingface-hub
+torch
+tqdm
+notebook
